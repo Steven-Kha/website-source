@@ -11,8 +11,8 @@ class App extends Component {
           <h2>Welcome to Steven Kha's Website! Work in Progress!</h2>
         </div>
         <p className="App-intro">
-          Welcome to my site
-          New Line Goes Here:
+          Welcome to my site:
+            <br> New Line goes here: </br>
         </p>
       </div>
     );
