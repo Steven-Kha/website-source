@@ -12,8 +12,10 @@ class App extends Component {
         </div>
         <p className="App-intro">
           Welcome to my site:
-
         </p>
+          <p>
+              Does this also make a new line in between?
+          </p>
           <br />
               <p> New Line goes here: </p>
 
