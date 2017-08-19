@@ -14,8 +14,9 @@ class App extends Component {
           Welcome to my site:
 
         </p>
-          <br>
+          <br />
               <p> New Line goes here: </p>
+
       </div>
     );
   }
