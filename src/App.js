@@ -17,7 +17,7 @@ class App extends Component {
                     Does this also make a new line in between?
                 </p>
                 <p>
-                    Yes it does! Testing image below...
+                    Yes it does! Testing image below... Please work!
                 </p>
                 <p>
                     <img alt = "cool logo" src = "https://upload.wikimedia.org/wikipedia/fr/thumb/8/87/The_Legend_of_Zelda_Breath_of_the_Wild_logo.png/1280px-The_Legend_of_Zelda_Breath_of_the_Wild_logo.png"

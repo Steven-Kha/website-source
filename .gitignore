@@ -9,8 +9,14 @@
 # production
 /build
 
-# misc
+# User-specific stuff:
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries
+.idea/vcs.xml
+.idea/jsLibraryMappings.xml
 
+# misc
 .DS_Store
 .env.local
 .env.development.local
