@@ -14,7 +14,7 @@ class App extends Component {
                     Welcome to my site:
                 </p>
                 <p>
-                    Watch this auto refresh! !
+
                 </p>
                 <p>
                     Yes it does! Testing image below... Please work!
@@ -25,6 +25,7 @@ class App extends Component {
                 </p>
                 <br />
                 <p> New Line goes here:</p>
+                <p> Another Line</p>
 
 
             </div>
