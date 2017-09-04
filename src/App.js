@@ -24,7 +24,7 @@ class App extends Component {
                          height = "251" width = "320"/>
                 </p>
                 <br />
-                <p> New Line goes here: Does this work now???</p>
+                <p> New Line goes here:</p>
 
             </div>
         );
