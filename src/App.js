@@ -14,7 +14,7 @@ class App extends Component {
                     Welcome to my site:
                 </p>
                 <p>
-                    Does this also make a new line in between?
+                    Watch this auto refresh! !
                 </p>
                 <p>
                     Yes it does! Testing image below... Please work!
